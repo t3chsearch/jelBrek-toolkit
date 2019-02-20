@@ -3,7 +3,7 @@
 ## The first iOS jailbreak toolkit.
 jelBrek-toolkit by @t3chsearch
 
-# Key features of jailKit
+# Key features of jelBrek-toolkit
 - Current iOS version & device detection
 - Present selection of available jailbreaks for the version of iOS & device that is detected
 - Ability to sideload .ipa of selected jailbreak (if applicable to your iOS version & device)
