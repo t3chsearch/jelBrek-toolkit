@@ -18,5 +18,5 @@ jailKit by @t3chsearch
 
 # Getting Support
 - Contact @t3chsearch via [Twitter](https://twitter.com/) DM
-- This project will be open sourced (Source Code will be available [Here](https://github.com/t3chsearch/jailKit))
+- This project will be open sourced (Source Code will be available [Here](https://github.com/t3chsearch/jelBrek-toolkit))
 - Any contributions are welcome
