@@ -1,7 +1,7 @@
 # jelBreak-toolkit
 
 ## The first iOS jailbreak toolkit.
-jailKit by @t3chsearch
+jelBrek-toolkit by @t3chsearch
 
 # Key features of jailKit
 - Current iOS version & device detection
